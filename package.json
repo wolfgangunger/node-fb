@@ -1,0 +1,14 @@
+{
+    "name": "node-fb",
+    "version": "1.0.0",
+    "keywords": [
+        "fb",
+        "client",
+        "browser"
+    ],
+    "author": "UNGERW",
+    "contributors": [],
+    "dependencies": {
+        "facebook-sdk": "^0.3.3"
+    }
+}
